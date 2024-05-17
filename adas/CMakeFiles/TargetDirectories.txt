@@ -1,0 +1,8 @@
+/home/wangying/work/mis/others/comms/adas/CMakeFiles/edit_cache.dir
+/home/wangying/work/mis/others/comms/adas/CMakeFiles/rebuild_cache.dir
+/home/wangying/work/mis/others/comms/adas/comms/CMakeFiles/edit_cache.dir
+/home/wangying/work/mis/others/comms/adas/comms/CMakeFiles/rebuild_cache.dir
+/home/wangying/work/mis/others/comms/adas/comms/adas/CMakeFiles/adas_prot_rm.dir
+/home/wangying/work/mis/others/comms/adas/comms/adas/CMakeFiles/adas_dsl.dir
+/home/wangying/work/mis/others/comms/adas/comms/adas/CMakeFiles/edit_cache.dir
+/home/wangying/work/mis/others/comms/adas/comms/adas/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+  <fields>
+    <int name="I0" type="uint32" length="4" defaultValue="0xAABBCCDD"/>
+    <int name="I1" type="uint32" length="4"/>
+    <list name="I2" count="1024">
+      <int name="Element" type="uint32" />
+    </list>
+    <int name="I3" type="uint32" length="4"/>
+    <int name="I4" type="uint32" length="4"/>
+  </fields>
+  <message name="Msg1" id="MsgId.M1" displayName="Message 1">
+    <ref name="F0" field="I0" />
+    <ref name="F1" field="I1" />
+    <ref name="F2" field="I2" />
+    <ref name="F3" field="I3" />
+    <ref name="F4" field="I4" />
+  </message>
+</schema>

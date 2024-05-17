@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema name="adas" endian="big">
+    <fields>
+        <enum name="MsgId" type="uint8" semanticType="messageId">
+            <validValue name="M1" val="1" />
+        </enum>
+    </fields>
+    
+    <frame name="Frame">
+        <size name="Size">
+            <int name="SizeField" type="uint16" />
+        </size>
+        <id name="ID" field="MsgId" />
+        <payload name="Data" />
+    </frame>
+</schema>
